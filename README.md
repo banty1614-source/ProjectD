@@ -1,5 +1,6 @@
 # Commodity Market Simulation Using NumPy
 
+![Commodity Trends](images/commodity_trends.png)
 A simple Python project that simulates the price movement of selected commodities over a one-year period using random market fluctuations and basic economic events.
 
 This project was built to practice working with **NumPy arrays**, **simulation modeling**, **data analysis**, and **Matplotlib visualizations** while exploring how external events can influence commodity prices.
